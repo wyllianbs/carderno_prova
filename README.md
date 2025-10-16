@@ -108,8 +108,8 @@ Personalize os detalhes da sua instituição:
 ```
 
 **Marcação do Gabarito:**
-- Resposta correta: `\di` (exibe com checkbox quando `\gabarito=1`)
-- Respostas incorretas: `\ti`
+- Gabarito:    `\di` (exibe com checkbox quando `\gabarito=1`)
+- Alternativa: `\ti`
 
 ### Questões com Código
 
