@@ -88,8 +88,8 @@ Personalize os detalhes da sua instituição:
 ```
 
 **Marcação do Gabarito:**
-- Resposta correta: `\ifnum\gabarito=1\doneitem[V.]\else\ti[V.]\fi`
-- Resposta incorreta: `\ti[F.]`
+- Gabarito:    `\ifnum\gabarito=1\doneitem[V.]\else\ti[V.]\fi`
+- Alternativa: `\ti[F.]`
 
 ### Questões de Múltipla Escolha
 
