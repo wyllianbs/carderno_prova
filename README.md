@@ -139,8 +139,12 @@ Use trechos de código inline em questões ou respostas:
 ```
 
 ## Exemplos
+
 - [Prova](samples/caderno_prova.pdf)
+![Prova](figs/caderno_prova.png)
+
 - [Gabarito](samples/caderno_prova_gabarito.pdf)
+![Prova](figs/caderno_prova_gabarito.png)
 
 
 ## Dependências
