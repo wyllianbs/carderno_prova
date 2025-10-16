@@ -139,8 +139,8 @@ Use trechos de código inline em questões ou respostas:
 ```
 
 ## Exemplos
-- <a href="samples/caderno_prova.pdf" target="_blank">Prova</a>.
-- <a href="samples/caderno_prova_gabarito.pdf" target="_blank">Gabarito da Prova</a>.
+- [Prova](samples/caderno_prova.pdf)
+- [Gabarito](samples/caderno_prova_gabarito.pdf)
 
 
 ## Dependências
@@ -213,7 +213,7 @@ Personalize o cabeçalho com o comando `\headerP` e o rodapé na configuração 
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a Licença <a href="LICENSE" target="_blank">GNU General Public License v3.0</a>.
+Este projeto está licenciado sob a Licença [GNU General Public License v3.0](LICENSE).
 
 ## 👤 Autor
 
