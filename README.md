@@ -26,7 +26,7 @@ Código LaTeX personalizável para criação de provas com geração automática
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seuusuario/carderno_prova.git
+git clone https://github.com/wyllianbs/carderno_prova.git
 cd carderno_prova
 ```
 
