@@ -20,7 +20,7 @@ Código LaTeX personalizável para criação de provas com geração automática
 
 - Distribuição LaTeX (TeX Live, MiKTeX ou MacTeX).
 - Compilador PDFLaTeX.
-- Pacotes LaTeX necessários (veja seção de Dependências).
+- Pacotes LaTeX necessários (veja seção de [Dependências](#Dependências).
 
 ### Uso Básico
 
