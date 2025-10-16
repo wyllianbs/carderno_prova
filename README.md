@@ -108,7 +108,7 @@ Personalize os detalhes da sua instituição:
 ```
 
 **Marcação do Gabarito:**
-- Gabarito:    `\di` (exibe com checkbox quando `\gabarito=1`)
+- Gabarito:    `\di` (exibe com _checkbox_ quando `\gabarito=1`)
 - Alternativa: `\ti`
 
 ### Questões com Código
