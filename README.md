@@ -1,4 +1,4 @@
-# Código LaTeX Para Provas com Gabarito Opcional
+# Código LaTeX Para Provas com Gabarito
 
 Código LaTeX personalizável para criação de provas com geração automática de gabarito. Possui layout em múltiplas colunas, destaque de sintaxe para várias linguagens de programação e formatação flexível de questões.
 
