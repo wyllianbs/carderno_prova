@@ -80,7 +80,7 @@ Personalize os detalhes da sua instituição:
 {\setlength{\columnsep}{0pt}\renewcommand{\columnseprule}{0pt}
 \begin{multicols}{2}
   \begin{answerlist}[label={\texttt{\Alph*}.},leftmargin=*]
-    \ifnum\gabarito=1\doneitem[V.]\else\ti[V.]\fi % resposta correta
+    \ifnum\gabarito=1\doneitem[V.]\else\ti[V.]\fi % resposta correta (gabarito)
     \ti[F.]                                       % resposta incorreta
   \end{answerlist}
 \end{multicols}
@@ -100,7 +100,7 @@ Personalize os detalhes da sua instituição:
   \ti Texto da alternativa A.
   \ti Texto da alternativa B.
   
-  \di Texto da alternativa C. % resposta correta
+  \di Texto da alternativa C. % resposta correta (gabarito)
   
   \ti Texto da alternativa D.
   \ti Texto da alternativa E.
