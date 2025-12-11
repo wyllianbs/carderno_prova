@@ -1,4 +1,4 @@
-# Código LaTeX Para Provas Com Gabarito
+# Código LaTeX Para Provas com Gabarito
 
 Código LaTeX personalizável para criação de provas com geração automática de gabarito. Possui layout em múltiplas colunas, destaque de sintaxe para várias linguagens de programação e formatação flexível de questões.
 
@@ -221,9 +221,9 @@ Este projeto está licenciado sob a Licença [GNU General Public License v3.0](L
 
 ## 👤 Autor
 
-**Prof. Wyllian Bezerra da Silva**  
-Universidade Federal de Santa Catarina (UFSC)
-Departamento de Informática e Estatística (INE)  
+**Prof. Wyllian B. da Silva**  
+Universidade Federal de Santa Catarina (UFSC)  
+Departamento de Informática e Estatística (INE)
 
 ---
 
